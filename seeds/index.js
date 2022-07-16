@@ -5,23 +5,12 @@ const Users = require('./users');
 const { places, descriptors } = require('./seedHelpers');
 const Campground = require('../models/campground');
 
-// mongoose.connect('mongodb+srv://Ayesha:1234@cluster0.2ixnoug.mongodb.net/?retryWrites=true&w=majority', {
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true
-// });
-
-
-if (process.env.NODE_ENV !== 'production') {
-    require('dotenv').config();
-}
-const dbUrl = process.env.DB_URL || 'mongodb://localhost:27017/yelpCamp';
-
-mongoose.connect(dbUrl, {
-    useNewUrlParser: true, 
+mongoose.connect('mongodb+srv://Ayesha:1234@cluster0.2ixnoug.mongodb.net/?retryWrites=true&w=majority', {
+    useNewUrlParser: true,
     useUnifiedTopology: true
-})
+});
 
-const db = mongoose.connection;
+const db = mongoose.connection; 
 
 db.on("error", console.error.bind(console, "connection error:"));
 db.once("open", () => {
