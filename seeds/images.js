@@ -1,9 +1,5 @@
 module.exports=[
     {
-        url:'https://res.cloudinary.com/dev731mmn/image/upload/v1657612846/YelpCamp/tyfg4cqw7nstzoz3kslg.jpg',
-        filename:'YelpCamp/tyfg4cqw7nstzoz3kslg'
-    },
-    {
         url:'https://res.cloudinary.com/dev731mmn/image/upload/v1656431188/YelpCamp/z20ce7eiugyalmwsaar2.jpg',
         filename:'YelpCamp/z20ce7eiugyalmwsaar2'
     },
