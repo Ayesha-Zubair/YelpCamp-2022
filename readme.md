@@ -56,7 +56,7 @@
     <li>Clone this repository</li>
     
      ```
-git clone
+git clone https://github.com/Ayesha-Zubair/YelpCamp-2022.git
 cd YelpCamp
 npm install 
 ```
