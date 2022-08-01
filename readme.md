@@ -8,7 +8,7 @@
 
 <h4>Informative Cluster Maps to show locations of different campgrounds.</h4>
 
-<img src="/images/index.JPG">
+<img src="/images/index.JPG" width="800" />
 
 <h4>Responsive Design</h4>
 
