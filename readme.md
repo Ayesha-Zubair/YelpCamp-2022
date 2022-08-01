@@ -53,8 +53,7 @@
 
 <h3>Run it locally</h3>
   <ol>
-    <li>Clone this repository</li>
-    
+    <li>Clone this repository</li>   
 ```
 git clone https://github.com/Ayesha-Zubair/YelpCamp-2022.git
 cd YelpCamp
