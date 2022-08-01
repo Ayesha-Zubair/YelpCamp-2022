@@ -2,7 +2,7 @@
 
 <p>YelpCamp is a full stack application where users can create new campgrounds and can review other's campgrounds. This app supports user authentication and authorization, posts management (creating, editing, and deleting), image uploading, responsive design, etc. YelpCamp is created using Node.js, Express and MongoDB.</p>
 
-<h4>Website Link - <a href="https://ayesha-yelpcamp.herokuapp.com/"></a></h4>
+<h4>Website Link - <a href="https://ayesha-yelpcamp.herokuapp.com/">https://ayesha-yelpcamp.herokuapp.com/</a></h4>
 
 <h2>Features</h2>
 
