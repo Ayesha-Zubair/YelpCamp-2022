@@ -12,15 +12,15 @@
 
 <h4>Responsive Design</h4>
 
-<img src="/images/responsive.png">
+<img src="/images/responsive.png" width="800" />
 
 <h4>Users can create, edit and delete campgrounds.</h4>
 
-<img src="/images/new.png">
+<img src="/images/new.png" width="800" />
 
 <h4>Users can review campgrounds, and delete their review.</h4>
 
-<img src="/images/reviews.png">
+<img src="/images/reviews.png" width="800" />
 
 <h2>Implementation</h2>
 
