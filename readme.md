@@ -51,21 +51,32 @@
 </ul>
 </ul>
 
-<h3>Run it locally</h3>
-  <ol>
-    <li>Clone this repository</li>   
-```
-git clone https://github.com/Ayesha-Zubair/YelpCamp-2022.git
-cd YelpCamp
-npm install
-```
-    <li>Install <a href="https://www.mongodb.com/">MongoDB</a></li>
-    <li>Create a Cloudinary account to get your cloud name, API Key and API Secret</li>
-    <li>Create a Mapbox account to get an API access token</li>
-    <li>Create an .env file in the root of this project and add following information:</li>
-    <li>Run mongod, then run node app.js in the terminal</li>
-    <li>Then go to localhost:3000.</li>
-  </ol>  
+  <h3>Run it locally</h3>
+1. Clone this repository to the local computer
+
+   ```
+   git clone https://github.com/Ayesha-Zubair/YelpCamp-2022.git
+   cd YelpCamp
+   npm install 
+   ```
+
+2. Install [MongoDB](https://www.mongodb.com/)
+
+3. Create a Cloudinary account to get your **cloud name**, **API Key** and **API Secret**
+
+4. Create a Mapbox account to get an **API access token**
+
+5. Create an `.env` file in the root of this project and add following information:
+
+   ```
+   CLOUDINARY_CLOUD_NAME=<cloud name>
+   CLOUDINARY_KEY=<API Key>
+   CLOUDINARY_SECRET=<API Secret>
+   MAPBOX_TOKEN=<API access token>
+   ```
+
+6. Run `mongod`, then run  `node app.js` in the terminal
+7. Go to locohost:3000
   
 
 <p> This project is from Colt Steele's <a href="https://www.udemy.com/course/the-web-developer-bootcamp/"> Web Dev Bootcamp 2022</a> with some added features.</p>
