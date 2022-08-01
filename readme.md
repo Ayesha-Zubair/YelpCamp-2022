@@ -53,19 +53,14 @@
 
 <h3>Run it locally</h3>
   <ol>
-    <li>Clone this repository
- ```
-git clone https://github.com/Ayesha-Zubair/YelpCamp-2022.git
-cd YelpCamp
-npm install 
-```
-    </li>
+    <li>Clone this repository</li>
     
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Install <a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li>Create a Cloudinary account to get your cloud name, API Key and API Secret</li>
+    <li>Create a Mapbox account to get an API access token</li>
+    <li>Create an .env file in the root of this project and add following information:</li>
+    <li>Run mongod, then run node app.js in the terminal</li>
+    <li>Then go to localhost:3000.</li>
   </ol>  
   
 
