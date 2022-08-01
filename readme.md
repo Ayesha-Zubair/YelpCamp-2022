@@ -51,4 +51,22 @@
 </ul>
 </ul>
 
+<h3>Run it locally</h3>
+  <ol>
+    <li>Clone this repository</li>
+    
+     ```
+git clone
+cd YelpCamp
+npm install 
+```
+    
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>  
+  
+
 <p> This project is from Colt Steele's <a href="https://www.udemy.com/course/the-web-developer-bootcamp/"> Web Dev Bootcamp 2022</a> with some added features.</p>
